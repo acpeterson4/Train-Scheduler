@@ -11,5 +11,14 @@ firebase.initializeApp(config);
 // Create a variable to reference the database
 var database = firebase.database();
 
-// Use the initialValue below
-// var initialValue =
+// Initial Values
+
+// Initialize Attributes
+
+// Time Apart (Remainder)
+
+// Minute(s) Until Train
+
+// Next Train
+
+// On click submit
